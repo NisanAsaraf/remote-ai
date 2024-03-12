@@ -1,3 +1,2 @@
-# cpp-template
-Template Repo
-Template Repo
+# remoteAI
+AI recognition with a Smart home interface.
